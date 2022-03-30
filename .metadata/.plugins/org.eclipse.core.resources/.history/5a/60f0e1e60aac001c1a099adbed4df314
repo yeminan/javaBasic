@@ -1,0 +1,22 @@
+package sec1;
+
+public class Array3 {
+	public static void main(String[] args) {
+		String[] names ={"김땡땡","이땡떙","박땡땡","최땡땡","장땡땡"};
+			
+		int[][] jum = {{100,80,90,},{50,40,60},{40,70,30},{40,60,90},{60,20,10}};
+		int hap =0;
+		float py = 0.0f;
+		int[] tot= new int[3];
+		float[] avg = new float[3];
+		System.out.println("***************************");
+		System.out.println("성명"+"국어"+"영어"+"수학");
+		String[][] name;	
+		for(int i=0;i<names.length;i++);{		
+		}	
+			System.out.println("김땡떙"+jum [1][2]);
+			}				
+		
+	}			
+
+
