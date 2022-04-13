@@ -1,0 +1,209 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.5.2
+Build-Jdk-Spec: 11
+Bundle-ManifestVersion: 2
+Bundle-Name: UML Lab Intro Plug-in
+Bundle-SymbolicName: com.yattasolutions.umllab.intro; singleton:=true
+Bundle-Version: 1.27.0.202203151127
+Bundle-Activator: com.yattasolutions.umllab.intro.a
+Bundle-Vendor: Yatta Solutions GmbH
+Require-Bundle: org.eclipse.ui;bundle-version="[3.4.2,3.210.0)",org.ecli
+ pse.ui.intro;bundle-version="[3.2.0,3.9.0)",org.eclipse.ui.forms;bundle
+ -version="[3.3.0,3.12.0)",com.yattasolutions.umllab;bundle-version="1.2
+ 7.0"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-ActivationPolicy: lazy
+Export-Package: com.yattasolutions.umllab.intro
+Automatic-Module-Name: com.yattasolutions.umllab.intro
+
+Name: intro/introContent.xml
+SHA-256-Digest: lVIYdLXmKWwOuCwwmFnwJ8cfq4xnDoptFn/+nzw4KO0=
+
+Name: com/yattasolutions/umllab/intro/f$1.class
+SHA-256-Digest: SlwlpOJNmBcqvNItLSpt+06ndhnCupFlvamChD7x5QY=
+
+Name: plugin.xml
+SHA-256-Digest: t7LjilNKetO9aF8BLwu1mL563HGn3JqwZ7lLeW5kCUI=
+
+Name: META-INF/maven/com.yattasolutions/com.yattasolutions.umllab.intro/
+ pom.xml
+SHA-256-Digest: nfOO3IHuGV/g3L1FvkXIXtL1rnRtxh8TM3QW9m3+oh0=
+
+Name: intro/fonts/PFIsotextPro-BoldItalic.eot
+SHA-256-Digest: 274dpKrRQ0XnT7IYOGhGPVmFdjFCfhZ+X0kvuYwN5lA=
+
+Name: intro/fonts/PFIsotextPro-BoldItalic.woff
+SHA-256-Digest: SIJaGKs/DRhXs9fxCnU671mK+uJ+mTf9YTU5GOzQnzs=
+
+Name: com/yattasolutions/umllab/intro/f$a.class
+SHA-256-Digest: Llw3IdzpwYG4ahSnteuWEkKNH60x82GAQmSI2Pd733g=
+
+Name: changelog.xml
+SHA-256-Digest: 1NEu6eaR3yig0vg8u59TtSvmCD1N6ztCPCXo/D/axmI=
+
+Name: com/yattasolutions/umllab/intro/b.class
+SHA-256-Digest: dcQRzVC/AYJnx9w26DXOWRIEGWsBj8Xd5A0yvjYrRR4=
+
+Name: intro/fonts/glyphicons-halflings-regular.woff
+SHA-256-Digest: omOU9+3hAMoRjv8u2ghZYnWpg5uVnCJuFUOVV6WoB0I=
+
+Name: intro/js/bootstrap.min.js
+SHA-256-Digest: 1f0XPQDZczkAg04OEIPehrUy4EixXAQgulwtsGI2RLg=
+
+Name: intro/fonts/fontawesome-webfont.svg
+SHA-256-Digest: 1bVjbrsuEkgQQ2IACGt0pg3/noqL5/ShCIv100WLw8g=
+
+Name: intro/fonts/fontawesome-webfont.ttf
+SHA-256-Digest: TW656dhSoqb3TnxChFai8H/GOhYT0QGS2O00AdnaX/o=
+
+Name: com/yattasolutions/umllab/intro/e.class
+SHA-256-Digest: Ks55ysf3ipmWXT7I42F/x1T882wu9MfyTt9xMgHI8QY=
+
+Name: intro/css/font-awesome.min.css
+SHA-256-Digest: D7G7ynNkbo4rk8gujYshlkexPUtEDEjjOCkLmmhbjeE=
+
+Name: intro/fonts/PFIsotextPro-Italic.woff
+SHA-256-Digest: Io365flVtZVS94Ki7gP4NoOTR2xdmAZ08/C4/qpQoLA=
+
+Name: intro/fonts/glyphicons-halflings-regular.eot
+SHA-256-Digest: E2NNqH2eI/jD7ZEIzhck0YOjmtBy5z4bPYy/ZG0tBAc=
+
+Name: intro/css/bootstrap-reset-yatta.css
+SHA-256-Digest: N8Fli8JunpBjLS5v6eAaWlisYBifUz8neGRznZbb88g=
+
+Name: intro/fonts/fontawesome-webfont.eot
+SHA-256-Digest: 5RGJHT4BsLJ67VGiGc7VEZ4sPQRgRlr4JC6b/0y2G3c=
+
+Name: intro/fonts/PFIsotextPro-BoldItalic.svg
+SHA-256-Digest: UJDcyXk78CDKfCi9nIHrUyqJQNSrBqovVjuI7eTdS3k=
+
+Name: META-INF/maven/com.yattasolutions/com.yattasolutions.umllab.intro/
+ pom.properties
+SHA-256-Digest: 9V42w5tiTjCk5MIb5xjw0QokThRGvxaWFfA9DVjtF0g=
+
+Name: intro/fonts/FontAwesome.otf
+SHA-256-Digest: DTTaB+XLy0/wh7OXlmqfn/tNbtfHBgVoVlIDwC8/7hE=
+
+Name: com/yattasolutions/umllab/intro/f$a$1.class
+SHA-256-Digest: VLV2ZCNwK6VdxtoPEuA3Je7Ccmtcv99jPS8QU6iocnc=
+
+Name: com/yattasolutions/umllab/intro/c.class
+SHA-256-Digest: 98DJ9cTYe/AL656n7PbE5dBo1dLv1lcEf0U5U79bqUY=
+
+Name: intro/fonts/PFIsotextPro-Italic.svg
+SHA-256-Digest: QfLun5QMxWODQhFGRO9Ml6H0Ro6g70FSbF99V2nOowA=
+
+Name: intro/fonts/fontawesome-webfont.woff
+SHA-256-Digest: GZQR9ln0GqzLlZussbDeMOVPJENSpIxvmJTmWuD4qaE=
+
+Name: com/yattasolutions/umllab/intro/b$1.class
+SHA-256-Digest: xobwtsbHvyis9xwaN5nts6ZmuI3qZN1wlifwl2tk/0I=
+
+Name: com/yattasolutions/umllab/intro/MenuContentProvider.class
+SHA-256-Digest: a1JabfXoKb6WAc4M9rwDMrDsJ2T8ZzxExMoX2UyKESA=
+
+Name: com/yattasolutions/umllab/intro/f.class
+SHA-256-Digest: upyl9j6JRMkSML63/xQnkU4V6STDqbsTH63u/avTD40=
+
+Name: intro/fonts/PFIsotextPro-Light.eot
+SHA-256-Digest: gwyARHc36XKGw/Epi3oEX3fLfwWMxh/IhKV3miYR84w=
+
+Name: com/yattasolutions/umllab/intro/d$1.class
+SHA-256-Digest: OXS7f7rArJa0AJuzgy9i17fwHNRyqxSaIuVkGg58q5w=
+
+Name: intro/fonts/glyphicons-halflings-regular.ttf
+SHA-256-Digest: 45UEQJN1fYKvyxOJV9BqHqk2G9zwtELQahioBRr1dFY=
+
+Name: intro/fonts/glyphicons-halflings-regular.svg
+SHA-256-Digest: QvYGWdJlwaPDD5+kKry7Vr1KU69Ng9MW1t16NpA8Q+U=
+
+Name: intro/fonts/PFIsotextPro-Italic.eot
+SHA-256-Digest: xwe0r8ORUXlaKy+FLviIPvms1WEshFeO7Ifaik/hlfE=
+
+Name: intro/fonts/PFIsotextPro-LightItalic.svg
+SHA-256-Digest: 6WqdDAnlU0LzaLNiMeOSsY2bWXj0LLpzTsy5ijTtv1c=
+
+Name: intro/css/uml-lab-start.css
+SHA-256-Digest: n2Hq0zaCvWbyoKq859/E6fCCcz22lncr2AyZCfHZYng=
+
+Name: intro/fonts/PFIsotextPro-Regular.svg
+SHA-256-Digest: e/yA/zeh02dPknYAQ5dvkHLDGH2gGyNYXP0fPDo96F4=
+
+Name: intro/fonts/glyphicons-halflings-regular.woff2
+SHA-256-Digest: /hhdEaSWdokNR7t4MxKgzaWkTEA5IUCU55V7TAQO8Rw=
+
+Name: intro/standby.xhtml
+SHA-256-Digest: lJhPD3fTk3zOlNiXm8cWyo/stdj5WMzEJ2KHJnUP6/k=
+
+Name: com/yattasolutions/umllab/intro/StandbyMenuContentProvider.class
+SHA-256-Digest: IsbvVE/oT1y5pmZx/6dTJMlDsAM9XedDCz9RM9dYFg8=
+
+Name: intro/js/jquery.jscrollpane.min.js
+SHA-256-Digest: QF/KUTd5YfGTPIaYcFouXOfSIIJSGe/I916STXExf4w=
+
+Name: intro/fonts/PFIsotextPro-Light.woff
+SHA-256-Digest: ySF6oxSXoOvHAosWjVLR+GdyFQPY2ppO3/9op1wuaG0=
+
+Name: intro/fonts/PFIsotextPro-Bold.eot
+SHA-256-Digest: fIDXu/ZXQQA59nV/kca0yzTW2J3oyo8Su2779M+HLNI=
+
+Name: intro/fonts/PFIsotextPro-Regular.woff
+SHA-256-Digest: vb7/h3pt7jP9lSvynTdeCdIHuuGeHLUigbSr4xVWen4=
+
+Name: intro/welcome.xhtml
+SHA-256-Digest: 7dxa3PkpUdUFtLuu0L9JmcobHcj8fOt1ow4HroX/GsI=
+
+Name: intro/img/yatta-solutions-logo.png
+SHA-256-Digest: YtgGFFJ1jU5mBvwGU8BwtLRI/4XDWu9ZiA+H+noVNsM=
+
+Name: intro/fonts/PFIsotextPro-LightItalic.woff
+SHA-256-Digest: 2JM6089Ec3nn82QCmtjoKdjrbuigI+mWvdpUFjvybFw=
+
+Name: intro/img/profiles-box.png
+SHA-256-Digest: KMLEEFoqOyGCVADQ4blQ6Ri0tpWpM67b080yOK3c0yw=
+
+Name: intro/fonts/PFIsotextPro-Light.svg
+SHA-256-Digest: BqXf7iKSSCofDrIINDTNDaRp4PMlDQi8qIynQ5QHGFQ=
+
+Name: intro/css/bootstrap.min.css
+SHA-256-Digest: 8EtRe6XWoFEEhWiaPkLawAD1FkD9cbmGgEy6F46uQqU=
+
+Name: intro/js/jquery.mousewheel.js
+SHA-256-Digest: 20LV/PQ/BDPiFrdkbgZopuRdOhqET00YwEnJ+xakoFM=
+
+Name: com/yattasolutions/umllab/intro/f$2.class
+SHA-256-Digest: 3KUOrxNH7dkxz7r2O8bk9lZXGLyAQlS0j5wGdsOIwEQ=
+
+Name: com/yattasolutions/umllab/intro/ChangeLogContentProvider.class
+SHA-256-Digest: ZN5ONwSNcwsjfKZ9GaY2F7F3zFV2hdMdde8ra01tQcU=
+
+Name: intro/fonts/PFIsotextPro-Regular.eot
+SHA-256-Digest: bkPKbny9oyVSNtH46M4YrV9SujCQZiT021jd/mOKytw=
+
+Name: intro/css/jquery.jscrollpane.css
+SHA-256-Digest: SsIv2O9BQAk9r1Z/2g4kR+Rw9IrNHnb1t6L8WXBfv8Y=
+
+Name: com/yattasolutions/umllab/intro/b$a.class
+SHA-256-Digest: 2DGcgjAkoNGhCdgUq+8pgBJoLEcQ407uAEd8ggZNdfk=
+
+Name: com/yattasolutions/umllab/intro/d.class
+SHA-256-Digest: D5C3RnOQrXtB0fXpEE+xQCv29oilrF3UHp1zOtdVblw=
+
+Name: intro/fonts/PFIsotextPro-Bold.svg
+SHA-256-Digest: xN2HM61Hk//QE+e3z2omzEFH6OMXzsAtxk84VYltRk8=
+
+Name: intro/fonts/PFIsotextPro-Bold.woff
+SHA-256-Digest: sV9ZXIvd9UpqN0hv/TRFOHohK7mqcwzrIl8+w+zLibk=
+
+Name: intro/fonts/PFIsotextPro-LightItalic.eot
+SHA-256-Digest: ZjpzbQaEXfudimIzW1/SZukXR3cAhnqBgC3Hn1HpVn0=
+
+Name: intro/img/YattaLogo_16x16.png
+SHA-256-Digest: /gn+lZzr0JkIlLXVrnxCVHgfmqT0B2NgSB2jN7viefE=
+
+Name: com/yattasolutions/umllab/intro/a.class
+SHA-256-Digest: ftMRQva8bdgBcLM6oaY/8qND9xTMsNCQYuwTdgr0tyI=
+
+Name: intro/js/jquery.js
+SHA-256-Digest: h0cGsrExGgcZtSZ/fRz4AwV+Nn6Urh/3v3jFRQ0w9dQ=
+

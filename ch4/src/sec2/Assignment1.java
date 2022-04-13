@@ -1,4 +1,4 @@
-package sec1;
+package sec2;
 
 public class Assignment1 {
 
