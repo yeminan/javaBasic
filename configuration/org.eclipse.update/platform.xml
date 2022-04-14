@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<config date="1648710218251" transient="false">
+<config date="1649905331134" transient="false">
 	<site updateable="true" url="file:/C:/Users/pc16/.p2/pool/" enabled="true" policy="MANAGED-ONLY">
 		<feature id="org.eclipse.gef.geometry.convert.fx.source" version="5.0.0.202203080300" url="features/org.eclipse.gef.geometry.convert.fx.source_5.0.0.202203080300/" plugin-identifier="org.eclipse.gef.geometry.convert.fx">
 		</feature>
@@ -96,6 +96,8 @@
 		<feature id="org.eclipse.gef.geometry.source" version="5.0.1.202203080300" url="features/org.eclipse.gef.geometry.source_5.0.1.202203080300/" plugin-identifier="org.eclipse.gef.geometry">
 		</feature>
 		<feature id="org.eclipse.oomph.p2" version="1.20.0.v20210808-0939" url="features/org.eclipse.oomph.p2_1.20.0.v20210808-0939/">
+		</feature>
+		<feature id="net.sourceforge.pmd.eclipse" version="4.33.0.v20220327-1533-r" url="features/net.sourceforge.pmd.eclipse_4.33.0.v20220327-1533-r/" plugin-identifier="net.sourceforge.pmd.eclipse.plugin">
 		</feature>
 		<feature id="org.eclipse.gef.mvc.fx.compatibility.equinox" version="5.0.3.202203080300" url="features/org.eclipse.gef.mvc.fx.compatibility.equinox_5.0.3.202203080300/">
 		</feature>

@@ -156,6 +156,7 @@ javax.xml.bind,2.2.0.v201105210648,file:/C:/Users/pc16/.p2/pool/plugins/javax.xm
 javax.xml.stream,1.0.1.v201004272200,file:/C:/Users/pc16/.p2/pool/plugins/javax.xml.stream_1.0.1.v201004272200.jar,4,false
 lpg.runtime.java,2.0.17.v201004271640,file:/C:/Users/pc16/.p2/pool/plugins/lpg.runtime.java_2.0.17.v201004271640.jar,4,false
 net.i2p.crypto.eddsa,0.3.0.v20181102-1323,file:/C:/Users/pc16/.p2/pool/plugins/net.i2p.crypto.eddsa_0.3.0.v20181102-1323.jar,4,false
+net.sourceforge.pmd.eclipse.plugin,4.33.0.v20220327-1533-r,file:/C:/Users/pc16/.p2/pool/plugins/net.sourceforge.pmd.eclipse.plugin_4.33.0.v20220327-1533-r.jar,4,false
 org.antlr.runtime,3.2.0.v201101311130,file:/C:/Users/pc16/.p2/pool/plugins/org.antlr.runtime_3.2.0.v201101311130.jar,4,false
 org.apache.ant,1.10.11.v20210720-1445,file:/C:/Users/pc16/.p2/pool/plugins/org.apache.ant_1.10.11.v20210720-1445/,4,false
 org.apache.batik.anim,1.14.0.v20210324-0332,file:/C:/Users/pc16/.p2/pool/plugins/org.apache.batik.anim_1.14.0.v20210324-0332.jar,4,false
